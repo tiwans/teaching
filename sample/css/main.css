@@ -1,0 +1,7 @@
+div.bar {
+    display: inline-block;
+    width: 25px;
+    height: 100px;   /* We'll override this later */
+    background-color: purple;
+    margin-right: 1px;
+}
